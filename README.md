@@ -26,7 +26,7 @@ Implemented a simple API server in Go that returns json
 ## Getting Started
 - Clone Repository
 ``` bash
-git clone https://github.com/your/repo.git
+git clone git@github.com:anti-15/Go_API.git
 cd repo
 ```
 - Download Dependencies
